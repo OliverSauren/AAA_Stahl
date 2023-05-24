@@ -2,3 +2,4 @@
 .DS_Store
 .ipynb_checkpoints/create_dataset_large-checkpoint.ipynb
 taxi_complete.csv
+.ipynb_checkpoints/Load_df_for_you_to_copy-checkpoint.ipynb

@@ -1,2 +1,4 @@
 
 .DS_Store
+.ipynb_checkpoints/create_dataset_large-checkpoint.ipynb
+taxi_complete.csv

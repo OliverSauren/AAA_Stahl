@@ -4,3 +4,6 @@
 taxi_complete.csv
 .ipynb_checkpoints/Load_df_for_you_to_copy-checkpoint.ipynb
 .ipynb_checkpoints/1_weather_data-checkpoint.ipynb
+taxi_2017_complete_preprocessed.csv
+.ipynb_checkpoints/task_1_taxitrip_cleanup-checkpoint.ipynb
+.ipynb_checkpoints/template_load_data-checkpoint.ipynb

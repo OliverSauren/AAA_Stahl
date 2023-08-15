@@ -1,7 +1,7 @@
 # AAA_Stahl
 This is the git-repository of Team Stahl.
 For each task we created one jupyter notebook (respective task number as on the team assignment sheet). 
-We needed some extra dataframes which are stored in the folder "extra_dataframes".
+We needed some extra dataframes which are stored in the folder "extra_dataframes". In "requirements.txt" you can find all the relevant third-party libraries to run the notebooks.
 Order of executing notebooks: 
 * 1_weather_data.ipynb
 * 1_taxitrip_cleanup.ipynb
